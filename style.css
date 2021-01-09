@@ -8,9 +8,11 @@ h1 {
     font-size: 50px;
 }
 
-.name-highlight {
+.tomato-highlight {
 
     color: tomato;
+    line-height: 0.3;
+    
 }     
 
 .half-width {
@@ -37,6 +39,7 @@ h1 {
 section{
 
     height: 500px;
+    clear:both;
 }
 .link-button {
 
@@ -61,4 +64,9 @@ h2 {
 p{
 
     color: dimgrey;
+}
+
+.designation {
+
+    line-height: 0.5;
 }
